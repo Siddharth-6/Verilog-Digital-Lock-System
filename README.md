@@ -19,14 +19,14 @@ A **password-based digital lock** system implemented using **Verilog HDL** and d
 
 ```
 CPLD-Password-Lock-With-Reset/
-├── src/
-│   └── digital_lock.v              # Verilog HDL for the system
 ├── docs/
 │   ├── REPORT.pdf                  # Detailed project report
 |   ├── Manual.pdf                  # Detail of CPLD board used
 │   └── state_diagram.png           # FSM diagram
 ├── media/
 │   └── setup.png                   # Image of CPLD hardware setup
+├── src/
+│   └── digital_lock.v              # Verilog HDL for the system
 └── README.md
 ```
 
